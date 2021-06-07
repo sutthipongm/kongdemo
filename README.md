@@ -22,11 +22,17 @@ By Kong
 https://docs.konghq.com/hub/kong-inc/basic-auth/
 
 By Konga (GUI)
+
+Sample1
 https://wisdomgoody.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-kong-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-konga-%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-kong-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-api-gateway-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%86%E0%B9%84%E0%B8%9B-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-17185899e1d0
+
+Sample2
+https://wisdomgoody.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-kong-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-konga-%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-kong-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-api-gateway-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%86%E0%B9%84%E0%B8%9B-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-2-8475f2fe8b40
 
 # Kong API Gateway with JWT Authentication
   Ref:</br>
   https://konghq.com/blog/jwt-kong-gateway </br>
-  https://www.youtube.com/watch?v=iz6i-RwsrJw&t=591s
+  
+
    
     
