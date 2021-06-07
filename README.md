@@ -33,6 +33,7 @@ https://wisdomgoody.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%
   Ref:</br>
   https://konghq.com/blog/jwt-kong-gateway </br>
   
-
-   
+# Kong API Gateway with OAuth2 Authentication
+  Ref:</br>
+ https://github.com/Kong/kong-oauth2-hello-world  
     
