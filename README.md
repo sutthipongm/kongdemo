@@ -18,6 +18,10 @@ Prequsive Task
 Basic Authentication
 Enable basic authentication to access a service using an assigned username and password combination. The Basic Auth plugin checks the Proxy-Authorization and Authorization headers for valid credentials and approves or denies the access request accordingly. Basic Auth can be used with both HTTP and HTTPS requests and is an effective way to add simple password protection to web applications.
 
+By Kong 
+https://docs.konghq.com/hub/kong-inc/basic-auth/
+
+By Konga (GUI)
 https://wisdomgoody.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-kong-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-konga-%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-kong-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-api-gateway-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%86%E0%B9%84%E0%B8%9B-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-17185899e1d0
 
 # Kong API Gateway with JWT Authentication
